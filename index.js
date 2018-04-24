@@ -4,6 +4,7 @@ var request = require('request');
 var http = require('http');
 var server = http.createServer(app);
 var io = require('socket.io').listen(server);
+//lhshdfgshdflsdf
 
 var stocks = ['GE'];
 
